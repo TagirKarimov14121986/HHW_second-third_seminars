@@ -9,6 +9,15 @@ git merge branch_name - слияние двух веток
 
 Конфликты возникают когда мы затрагиваем общее рабочее пространство
 Попробуем затронуть общее пространство. 
+
+
+
+
+
+
+
+
+
 I creating second conflict.
 My name is Tagir. I was born in Bashortostan. I'm geologist. 
 
