@@ -15,4 +15,4 @@ Hello World!
 I would like to develop Git. 
 I creating one more conflict!
 
-This is my draft1
+This is my draft2 and I would like finished my job.
