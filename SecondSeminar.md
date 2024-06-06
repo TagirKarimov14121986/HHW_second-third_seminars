@@ -13,3 +13,4 @@ I creating second conflict.
 Hello World!
 
 I would like to develop Git. 
+I creating one more conflict!
