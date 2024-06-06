@@ -10,10 +10,11 @@ git merge branch_name - слияние двух веток
 Конфликты возникают когда мы затрагиваем общее рабочее пространство
 
 I creating second conflict.
-Hello World!
+My name is Tagir. I was born in Bashortostan. I'm geologist. 
 
 I would like to develop Git. 
 I creating one more conflict!
 
 This is my draft2 and I would like finish my job - can't did, my deadline is come.
 My draft3 is last! I'm hope.
+
