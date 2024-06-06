@@ -15,5 +15,5 @@ Hello World!
 I would like to develop Git. 
 I creating one more conflict!
 
-This is my draft2 and I would like finished my job - can't did, my deadline is come.
+This is my draft2 and I would like finish my job - can't did, my deadline is come.
 My draft3 is last! I'm hope.
